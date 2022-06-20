@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shubham Bhagwan Narkhede</h1>
 <h3 align="center">A passionate Flutter Mobile App developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shubham-narkhede&label=Profile%20views&color=0e75b6&style=flat" alt="shubham-narkhede" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shubham-narkhede" alt="shubham-narkhede" /></a> </p>
 
 - 🔭 I’m currently working on [FMS](https://play.google.com/store/apps/details?id=com.vesatogo.fleet_app&hl=en_US&gl=US)
@@ -27,6 +25,8 @@
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/shubham-narkhede-435bb1100" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shubham-narkhede-435bb1100" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/shubham-narkhede" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="shubham-narkhede" height="30" width="40" /></a>
+<a href="https://fb.com/https://www.facebook.com/shubham.narkhede.334" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/shubham.narkhede.334" height="30" width="40" /></a>
+<a href="https://instagram.com/_me_._shubham_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_me_._shubham_" height="30" width="40" /></a>
 <a href="https://medium.com/@shubham.narkhede8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@shubham.narkhede8" height="30" width="40" /></a>
 </p>
 
