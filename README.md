@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shubham-narkhede" alt="shubham-narkhede" /></a> </p>
 
-- 🔭 I’m currently working on [FMS](https://play.google.com/store/apps/details?id=com.vesatogo.fleet_app&hl=en_US&gl=US)
+- 🔭 I’m currently working in HDFC on FinTech Domain
 
 - 🌱 I’m currently learning **Python & JavaScript**
 
